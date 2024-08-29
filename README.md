@@ -1,6 +1,6 @@
 #     STM32---Control-of-a-Submergible
 
-![Submergible](./Submergible.png)
+<img src="./Submergible.png" alt="Submergible" width="50%">
 
 This repository contains the source code and documentation for a university project completed in 2019. The project involves the development of  a submergible vehicle with a control system with an STM32 microcontroller.
 
