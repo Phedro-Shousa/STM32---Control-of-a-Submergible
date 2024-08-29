@@ -35,6 +35,10 @@ To work with this project, you will need:
 - **Keil MDK-ARM**: For compiling and debugging the source code.
 - **STM32CubeIDE**: Alternatively, you can use STM32CubeIDE if you prefer an integrated development environment.
 
+## Project Video
+
+Watch the project in action on [YouTube](https://www.youtube.com/watch?v=GcWL44Fw8ew).
+
 
 ## Acknowledgments
 
